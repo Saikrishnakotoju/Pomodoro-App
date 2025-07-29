@@ -50,3 +50,9 @@ The app uses a smooth vertical gradient background from a dark teal to deep blue
 Feel free to reach out if you want to contribute or have any questions!
 
 krishnasaikotoju@gmail.com
+
+Output screen shorts
+<img width="1007" height="655" alt="image" src="https://github.com/user-attachments/assets/7cc84a7f-5125-44a4-8a5d-2af6ca051475" />
+<img width="836" height="576" alt="image" src="https://github.com/user-attachments/assets/ad3f1e80-a176-430f-8379-3e119c10135b" />
+
+
